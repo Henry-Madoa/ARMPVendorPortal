@@ -13,6 +13,7 @@
           <xsd:enumeration value="Archived" />
           <xsd:enumeration value="Committed" />
           <xsd:enumeration value="Fulfilled" />
+          <xsd:enumeration value="Closed" />
         </xsd:restriction>
       </xsd:simpleType>
       <xsd:complexType name="VendorReg">

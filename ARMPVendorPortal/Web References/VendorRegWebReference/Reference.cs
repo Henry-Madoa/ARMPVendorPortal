@@ -822,6 +822,9 @@ namespace ARMPVendorPortal.VendorRegWebReference {
         
         /// <remarks/>
         Fulfilled,
+        
+        /// <remarks/>
+        Closed,
     }
     
     /// <remarks/>
